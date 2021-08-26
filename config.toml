@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://blog-rouge-five-89.vercel.app"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "lianxm"                        # site title                     # 网站标题
